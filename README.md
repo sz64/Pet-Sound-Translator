@@ -55,6 +55,7 @@ Summary:
  - In terms of the general architecture, this product is similar to our own. If the final product that we create is to be a mobile application then the dogstar application may be a good comparison for what to include.
  
  #### Related Papers
+
  We can only find two papers directly related to this task which were done by the same team.
  
  ***Domestic Cat Sound Classification Using Transfer Learning***, Yagya Raj Pandeya, Dongwhoon Kim, Joonwhooan Lee, 2018
@@ -132,8 +133,10 @@ According to these two papers, the state-of-art method is as follow:
    2. bagging
    3. boosting
 
+
 ## Sprint 2 Goals:
  - Finalize ML aspects of the project
  - Complete the basic framework of the application
     1. Take in the recordings (pre-recorded/live) and output the corresponding label
     2. Ready to implement the final ML decision rules to the application 
+
