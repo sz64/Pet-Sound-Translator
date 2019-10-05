@@ -49,7 +49,7 @@ According to these two papers, the state-of-art method is as follow:
 ## System Design
 * Major Components
 
-Pet Sound -> Feature Extraction -> Training -> Classification -> Output
+![SystemArchitectureFlowchart](https://github.com/sz64/Pet-Sound-Translator/blob/Sprint1/petsoundtranslatorflowchart.png)
   
   `User Interface` Module: 
   
@@ -109,3 +109,4 @@ Pet Sound -> Feature Extraction -> Training -> Classification -> Output
    1. Majority Voting
    2. bagging
    3. boosting
+
