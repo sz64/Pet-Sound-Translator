@@ -35,11 +35,16 @@ Our product should be an API or a computer/mobile app that:
  
  We can only find two papers directly related to this task which were done by the same team.
  
- _Domestic Cat Sound Classification Using Transfer Learning_, Yagya Raj Pandeya, Dongwhoon Kim, Joonwhooan Lee, 2018
- _Domestic Cat Sound Classification Using Learned Features from Deep Neural Network_, Yagya Raj Pandeya, Dongwhoon Kim, Joonwhooan Lee, 2018
+ ***Domestic Cat Sound Classification Using Transfer Learning***, Yagya Raj Pandeya, Dongwhoon Kim, Joonwhooan Lee, 2018
+ ***Domestic Cat Sound Classification Using Learned Features from Deep Neural Network***, Yagya Raj Pandeya, Dongwhoon Kim, Joonwhooan Lee, 2018
 
 According to these two papers, the state-of-art method is as follow:
- 
+   1. Feature Extraction:
+      - Extract mel bank features from original audio signal
+      - Use a pre-trained CNN (with Frequency Divison Average Pooling) to extract features from mel bank features.
+   2. Classification:
+      - Use five different machine learnign algorithms (Random Forest, KNN, Extra Tree, Linear Discriminant Analysis, Support Vector Machine) for the classification and ensemble all of them using majority voting.
+   3. Categories: There are ten categories of cat mood (Happy, Angry, Resting, Defence, etc).
 
 ## System Design
 * Major Components
