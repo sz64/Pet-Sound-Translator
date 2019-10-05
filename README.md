@@ -35,10 +35,24 @@ Our product should be an API or a computer/mobile app that:
  
  #### Similar Products
  Baby Sound Monitors (Overall):
-    - Baby sound monitors are an example of a product that can stream sound from one device to another. Included in this general overview of this product type there are devices made to transmit the sound as well as applications that can be downloaded on mobile devices. Our product is similar to baby sound monitors as it will be used to monitor a user's pet(s). The main difference between baby sound monitors and our own product would be that our device will be able to categorize the recording, to give the user a better idea of what the current situation is. Secondly, the ability to stream this data to another device may be something to be implemented in our system in the future. 
+ 
+ Summary: 
+ 
+ - Stream sound from another device to monitor the user's baby
+ 
+ Differences and Takeaway: 
+ 
+    - The main difference between baby sound monitors and our own product would be that our device will be able to categorize the recording, to give the user a better idea of what the current situation is. Secondly, the ability to stream this data to another device may be something to be implemented in our system in the future. 
     
  Dogstar (Wearable for a dog's tail)
-    - This product is a wearable that sends motion data to the user's mobile device and analyzes it to categorize the current emotions of the dog. The app is able to keep track of these moments and give a overall evaluation as well as a timeline for the dog. Additional features include keeping track of the user's dog's schedule. In terms of the general architecture, this product is similar to our own. If the final product that we create is to be a mobile application then the dogstar application may be a good comparison for what to include.
+ 
+Summary: 
+
+- This product is a wearable that sends motion data to the user's mobile device and analyzes it to categorize the current emotions of the dog. The app is able to keep track of these moments and give a overall evaluation as well as a timeline for the dog. Additional features include keeping track of the user's dog's schedule.
+
+ Differences and Takeaway: 
+
+ - In terms of the general architecture, this product is similar to our own. If the final product that we create is to be a mobile application then the dogstar application may be a good comparison for what to include.
  
  #### Related Papers
  We can only find two papers directly related to this task which were done by the same team.
