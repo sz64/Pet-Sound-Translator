@@ -33,6 +33,29 @@ Our product should be an API or a computer/mobile app that:
  * Existing Similar Products
  * Related Papers
  
+ #### Similar Products
+ Baby Sound Monitors (Overall):
+ 
+ Summary: 
+ 
+ - Stream sound from another device to monitor the user's baby
+ 
+Differences and Takeaway: 
+ 
+ - The main difference between baby sound monitors and our own product would be that our device will be able to categorize the recording, to give the user a better idea of what the current situation is. Secondly, the ability to stream this data to another device may be something to be implemented in our system in the future. 
+    
+ Dogstar (Wearable for a dog's tail)
+ 
+Summary: 
+
+- This product is a wearable that sends motion data to the user's mobile device and analyzes it to categorize the current emotions of the dog. The app is able to keep track of these moments and give a overall evaluation as well as a timeline for the dog. Additional features include keeping track of the user's dog's schedule.
+
+ Differences and Takeaway: 
+
+ - In terms of the general architecture, this product is similar to our own. If the final product that we create is to be a mobile application then the dogstar application may be a good comparison for what to include.
+ 
+ #### Related Papers
+
  We can only find two papers directly related to this task which were done by the same team.
  
  ***Domestic Cat Sound Classification Using Transfer Learning***, Yagya Raj Pandeya, Dongwhoon Kim, Joonwhooan Lee, 2018
@@ -109,4 +132,11 @@ According to these two papers, the state-of-art method is as follow:
    1. Majority Voting
    2. bagging
    3. boosting
+
+
+## Sprint 2 Goals:
+ - Finalize ML aspects of the project
+ - Complete the basic framework of the application
+    1. Take in the recordings (pre-recorded/live) and output the corresponding label
+    2. Ready to implement the final ML decision rules to the application 
 
