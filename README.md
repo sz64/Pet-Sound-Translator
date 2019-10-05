@@ -57,8 +57,6 @@ Pet Sound -> Feature Extraction -> Training -> Classification -> Output
   
   `Classification` Module: 
   
-  `Storage` Module: 
-  
   `OS Interface` Module: 
 * Technology Selection
   `Feature Exyraction`: 
