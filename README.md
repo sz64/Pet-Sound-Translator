@@ -24,6 +24,7 @@ The goal of this project is to create a cat sound processing software that can i
 * User Iterface Design
 
 Our product should be an API or a computer/mobile app that:
+
     1. User can upload cat sound recordings using our interfaces/ User can record live cat sound and upload it to the app.
     2. Once the record is uploaded, the user will get a generalized category of cat’s emotion corresponding to its sound. 
  
