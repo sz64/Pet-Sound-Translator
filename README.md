@@ -40,9 +40,9 @@ Our product should be an API or a computer/mobile app that:
  
  - Stream sound from another device to monitor the user's baby
  
- Differences and Takeaway: 
+Differences and Takeaway: 
  
-    - The main difference between baby sound monitors and our own product would be that our device will be able to categorize the recording, to give the user a better idea of what the current situation is. Secondly, the ability to stream this data to another device may be something to be implemented in our system in the future. 
+ - The main difference between baby sound monitors and our own product would be that our device will be able to categorize the recording, to give the user a better idea of what the current situation is. Secondly, the ability to stream this data to another device may be something to be implemented in our system in the future. 
     
  Dogstar (Wearable for a dog's tail)
  
@@ -131,3 +131,9 @@ According to these two papers, the state-of-art method is as follow:
    1. Majority Voting
    2. bagging
    3. boosting
+
+## Sprint 2 Goals:
+ - Finalize ML aspects of the project
+ - Complete the basic framework of the application
+    1. Take in the recordings (pre-recorded/live) and output the corresponding label
+    2. Ready to implement the final ML decision rules to the application 
