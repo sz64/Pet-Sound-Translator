@@ -62,13 +62,16 @@ Pet Sound -> Feature Extraction -> Training -> Classification -> Output
   `OS Interface` Module: 
 * Technology Selection
   `Feature Exyraction`: 
+  
      First Step: Mel bank features
+     
      Second Step:
      1. PCA (Principal Component Analysis)
      2. ICA (Independent Component Analysis)
      3. CNN (Convolutional Neural Network)
      4. CDBN (Convolutional Deep Belief Network)
    `Classification`:
+   
      Classifier:
      1. KNN
      2. Linear Deiscriminant Analysis
@@ -77,6 +80,7 @@ Pet Sound -> Feature Extraction -> Training -> Classification -> Output
      5. Support Vector Machine
      6. CNN
      7. RNN
+     
      Ensembler:
      1. Majority Voting
      2. bagging
