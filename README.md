@@ -31,6 +31,15 @@ Our product should be an API or a computer/mobile app that:
  
  ## Product Survey
  * Existing Similar Products
+ * Related Papers
+ 
+ We can only find two papers directly related to this task which were done by the same team.
+ 
+ _Domestic Cat Sound Classification Using Transfer Learning_, Yagya Raj Pandeya, Dongwhoon Kim, Joonwhooan Lee, 2018
+ _Domestic Cat Sound Classification Using Learned Features from Deep Neural Network_, Yagya Raj Pandeya, Dongwhoon Kim, Joonwhooan Lee, 2018
+
+According to these two papers, the state-of-art method is as follow:
+ 
 
 ## System Design
 * Major Components
