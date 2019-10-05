@@ -12,24 +12,21 @@ The goal of this project is to create a cat sound processing software that can i
 * User Stories
 
     1. I, a new pet owner, should be able to figure out the mood of my cat(s) using this product.
-    2. I, as a pet owner, should be able to compare the recognition result of this product with my understanding of my cat(s) based on my own experience and make a comment on the result.
+    2. I, as a pet owner, should be able to compare the recognition result of this product with the understanding of my cat(s) based on my own experience and make a comment on the result.
     3. I, as a pet store/clinic staff, shoud be able to use this product to monitor cat(s)' mood when I leave the cattery.
-    4. I, as a pet store/clinic staff, should be able to look at records of cats' mood to see when the cat has bad emotions, how serious it is and how long it lasts.
+    4. I, as a pet store/clinic staff, should be able to look at records of cats' mood to see when the cat had bad emotions, how serious it was and how long it lasted.
     5. I, as a ML researcher, should have access to the code of this model and thus can use it as a pretrained model for other animals' mood detection.
 
 * MVP
 
-    1. 
+    1. Uer should be able to upload cat sound audio file via a GUI
+    2. User shoud be able to get a cat mood recognition result.
 
 
 * User Iterface Design
 Our product should be an API or a computer/mobile app that:
  - User can upload cat sound recordings using our interfaces/ User can record live cat sound and upload it to the app.
  - Once the record is uploaded, the user will get a generalized category of cat’s emotion corresponding to its sound. 
-User Stories
- - I, a new pet owner, would like to have a better understanding of my pet with this product.
- - I, as a pet owner, would like to see how well I understand my pet. 
- - I, as an employee (pet store, adoption center, pet clinic), would like to monitor the general emotions of the cats. 
  
  
  ## Product Survey
