@@ -50,10 +50,15 @@ According to these two papers, the state-of-art method is as follow:
 * Major Components
 
 Pet Sound -> Feature Extraction -> Training -> Classification -> Output
+  
   `User Interface` Module: 
+  
   `Feature Extractor` Module: 
+  
   `Classification` Module: 
+  
   `Storage` Module: 
+  
   `OS Interface` Module: 
 * Technology Selection
   `Feature Exyraction`: 
