@@ -1,5 +1,9 @@
 # Pet-Sound-Translator (Cats)
 
+* BU ©Steven Zhu
+* BU ©Yingqi Zhang
+* TA: Zhenpeng
+
 ## Product Definition
 * Product Mission
 
