@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">petsoundtranslator</string>
+    <string name="click_here_to_start">Click Here to Start</string>
+    <string name="record">Record</string>
 </resources>
