@@ -143,3 +143,22 @@ According to these two papers, the state-of-art method is as follow:
  - Complete the basic framework of the application
     1. Take in the recordings (pre-recorded/live) and output the corresponding label
     2. Ready to implement the final ML decision rules to the application 
+
+## App Software
+
+This app is based off of [OmRecorder](https://github.com/kailash09dabhi/OmRecorder), by Kailash Dabhi from Kingbull Technology.
+
+## License
+Copyright 2019 Steven Zhu (Boston University)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
