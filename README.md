@@ -103,13 +103,10 @@ According to these two papers, the state-of-art method is as follow:
      3. Random Forest
      4. Extra Tree
      5. Support Vector Machine
-     6. CNN
-     7. RNN
      
      Ensembler:
      1. Majority Voting
-     2. bagging
-     3. boosting
+     
 * Test Programs
 
  `Feature Exytaction`: 
@@ -129,18 +126,18 @@ According to these two papers, the state-of-art method is as follow:
    3. Random Forest
    4. Extra Tree
    5. Support Vector Machine
-   6. CNN
-   7. RNN
+
      
    Ensembler:
    1. Majority Voting
-   2. bagging
-   3. boosting
+
+## Application
+(Located in the Application Branch, did not merge as it is separate entity)
+ - Able to record .wav files.
+ - Ready to integrate the classification system.
+    - Can integrate through internet or possibly incorporating python code with java. 
+    
+    
 
 
-## Sprint 2 Goals:
- - Finalize ML aspects of the project
- - Complete the basic framework of the application
-    1. Take in the recordings (pre-recorded/live) and output the corresponding label
-    2. Ready to implement the final ML decision rules to the application 
 
